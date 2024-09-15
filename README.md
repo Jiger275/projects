@@ -20,7 +20,7 @@ Telegram Task Bot — это бот для управления задачами
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/ваш_логин/telegram_task_bot.git
+git clone https://github.com/Jiger275/telegram_task_bot.git
 cd telegram_task_bot
 ```
 
