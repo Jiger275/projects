@@ -152,7 +152,7 @@ telegram_task_bot/
 1. **Инициализация репозитория**: Инициализируйте проект с помощью Git, добавьте удалённый репозиторий.
    ```bash
    git init
-   git remote add origin https://github.com/ваш_логин/telegram_task_bot.git
+   git remote add origin https://github.com/Jiger275/telegram_task_bot.git
    ```
 
 2. **Создание новой ветки для разработки**:
