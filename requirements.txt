@@ -1,0 +1,6 @@
+python-telegram-bot==20.0  # Библиотека для работы с Telegram API
+apscheduler==3.9.1          # Планировщик задач
+sqlalchemy==2.0.0           # Работа с базой данных
+python-dotenv==1.0.0
+alembic==1.7.7
+

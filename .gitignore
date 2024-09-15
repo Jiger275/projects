@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+venv/
+
+logs/
+*.log
+
+config/config.py
+.env
+
+alembic/versions/
+
+*.sqlite3
+*.db
